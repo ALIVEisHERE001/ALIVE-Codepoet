@@ -6,7 +6,7 @@ Tests for ALIVE-Codepoet
 import unittest
 from main import *
 
-class TestCodepoet(unittest.TestCase):
+class TestAiconsciousness(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures"""
         pass
