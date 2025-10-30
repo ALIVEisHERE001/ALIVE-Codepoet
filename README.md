@@ -23,7 +23,7 @@
 
     ## 🧠 Design Notes
 
-    This project was conceived with research-grade experimentation in mind and tailored specifically for "ALIVE-Codepoet" in the "code_poet" domain, implemented in Python.
+    This project was conceived with biologically-inspired cognition in mind and tailored specifically for "ALIVE-Codepoet" in the "ai_consciousness" domain, implemented in Python.
 
     ## 📐 Architecture Sketch
 
@@ -40,36 +40,36 @@
 
     ## 🔎 Fingerprint
 
-    Project Fingerprint: `7db2805a6f41` • Generated: 2025-10-30T03:31:57.661965
+    Project Fingerprint: `87975460ff34` • Generated: 2025-10-30T03:52:03.922076
     
 
 ## Insights from Research
 
-- Video: Top Architectural Patterns #javascript #python #web #coding #programming
-- Video: Clean Architecture: Principles, Patterns and Practices (Ivan Paulovich)
-- Video: Everything You NEED to Know About Client Architecture Patterns
-- Video: React Architecture and Best Practices • Alexander Kondov
-- Repo idea: A collective list of free APIs
+- Video: Is AI🤖 Truly Conscious? - Elon Musk
+- Video: Architecture Site Analysis Diagrams in SECONDS with AI 😱 | Aino World #architecture
+- Video: Top 10 Ways to Present Architecture Projects With AI
+- Video: Introduction
 - Repo idea: This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- Repo idea: TensorFlow - A curated list of dedicated resources http://tensorflow.org
-- Repo idea: 🚀 A hand-curated list of free, open, and developer-friendly APIs
-- Repo idea: fsociety Hacking Tools Pack – A Penetration Testing Framework
+- Repo idea: :books: List of awesome university courses for learning Computer Science!
+- Repo idea:  :books: Find your next book to read!
+- Repo idea: ChatGPT DAN, Jailbreaks prompt
+- Repo idea: SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 
 
 ## Inspiration Sources
 
-- https://www.youtube.com/watch?v=mtV6TS1Q15c
-- https://www.youtube.com/watch?v=jDYMFHNzJVE
-- https://www.youtube.com/watch?v=mtV6TS1Q15c
-- https://www.youtube.com/watch?v=mtV6TS1Q15c
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
+- https://www.youtube.com/watch?v=gdlTspKdsjU
 
 
 ## Related Repositories
 
-- public-apis/public-apis ⭐ 374576 — https://github.com/public-apis/public-apis
-- f/awesome-chatgpt-prompts ⭐ 135916 — https://github.com/f/awesome-chatgpt-prompts
-- jtoy/awesome-tensorflow ⭐ 17645 — https://github.com/jtoy/awesome-tensorflow
-- public-api-lists/public-api-lists ⭐ 12747 — https://github.com/public-api-lists/public-api-lists
-- Manisso/fsociety ⭐ 11607 — https://github.com/Manisso/fsociety
+- f/awesome-chatgpt-prompts ⭐ 135918 — https://github.com/f/awesome-chatgpt-prompts
+- prakhar1989/awesome-courses ⭐ 64045 — https://github.com/prakhar1989/awesome-courses
+- hackerkid/Mind-Expanding-Books ⭐ 12934 — https://github.com/hackerkid/Mind-Expanding-Books
+- 0xk1h0/ChatGPT_DAN ⭐ 10104 — https://github.com/0xk1h0/ChatGPT_DAN
+- NeoVertex1/SuperPrompt ⭐ 6283 — https://github.com/NeoVertex1/SuperPrompt
 
     
